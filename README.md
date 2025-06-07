@@ -85,8 +85,8 @@ docker run --name sync_lip_WEB -p 3000:3000 sync_lip_web_app:latest
 ## Project Structure
 
 ```
-Sync-lip-api/      # FastAPI backend
-audio-lip-web/     # Next.js frontend
+Sync-lip-API/      # FastAPI backend
+Sync-lip-WEB/     # Next.js frontend
 ```
 ---
 
