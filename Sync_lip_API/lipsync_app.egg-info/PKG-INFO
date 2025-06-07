@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: lipsync-app
+Version: 0.1.0
+Summary: A real-time audio lip-sync application using MuseTalk and Whisper
+Home-page: UNKNOWN
+Author: Your Name
+Author-email: your.email@example.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: <3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dependencies

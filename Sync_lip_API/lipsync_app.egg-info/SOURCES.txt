@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+face_detection/__init__.py
+face_detection/api.py
+face_detection/models.py
+face_detection/utils.py
+lipsync_app.egg-info/PKG-INFO
+lipsync_app.egg-info/SOURCES.txt
+lipsync_app.egg-info/dependency_links.txt
+lipsync_app.egg-info/requires.txt
+lipsync_app.egg-info/top_level.txt
+models/__init__.py
+models/conv.py
+models/syncnet.py
+models/wav2lip.py

@@ -1,0 +1,11 @@
+Collecting uvicorn
+  Downloading uvicorn-0.33.0-py3-none-any.whl (62 kB)
+Collecting click>=7.0
+  Downloading click-8.1.8-py3-none-any.whl (98 kB)
+Collecting h11>=0.8
+  Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+Requirement already satisfied: typing-extensions>=4.0 in f:\02_huynhbaolong\huynhbaolong\wav2lip\sync-lip-api\.venv\lib\site-packages (from uvicorn) (4.13.2)
+Collecting colorama
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: colorama, h11, click, uvicorn
+Successfully installed click-8.1.8 colorama-0.4.6 h11-0.16.0 uvicorn-0.33.0
